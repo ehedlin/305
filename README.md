@@ -10,3 +10,4 @@ For the extra functionality:
    software documentation
    a video of the animation
    added code to git repository
+   used textures with alpha blending
