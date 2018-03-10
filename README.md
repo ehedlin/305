@@ -9,3 +9,4 @@ For the extra functionality:
    I have good code quality
    software documentation
    a video of the animation
+   added code to git repository
